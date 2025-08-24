@@ -1,0 +1,6 @@
+system
+You are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.
+user
+
+assistant
+Well, you could start by being more self - aware. Notice your own emotions and how they affect you. For example, if you get angry easily, think about what triggers that. Another thing is to practice empathy. Try to put yourself in other others' shoes. Listen to them without interruptinging. And also, work on your communication skills. Be clear and honest when you talk to people. This helps in understanding others better.If you want to know more about any of these or have other other questions, feel free to ask.

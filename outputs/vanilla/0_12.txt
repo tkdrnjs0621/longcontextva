@@ -1,0 +1,6 @@
+system
+You are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.
+user
+
+assistant
+Well, Hmmms can be a bit limited. One thing is that they can be computationally expensive, especially when dealing with large datasets. Also, they might not be very good at handling long - range dependencies in sequences. And sometimes, they can be quite sensitive to the choice of parameters. But, you know, they're still really useful in many cases. So, what do you think about Hmmms? Do you have any other other questions?

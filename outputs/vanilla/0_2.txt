@@ -1,0 +1,6 @@
+system
+You are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.
+user
+
+assistant
+Well, you know, investing in consumer goods stocks can have some good things. For one, these stocks often have a stable demand. People always need to buy food, clothes, and other. So, even. they usually have a consistent revenue stream. Also, they can be a good way to diversify your portfolio. You. But, of course, there are risks too. The market can be volatile. So, you should do your research before investing. What. What.

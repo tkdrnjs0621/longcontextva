@@ -1,0 +1,6 @@
+system
+You are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.
+user
+
+assistant
+Well, you know, professional sprinterssthey develop some really important psychological skills. One is focus. They have to be super focused during the race, like all, "I'm just going to run this one race right now." Another is mental toughness. They face a lot of pressure, and they need to be able to push through that. And they also have good self - confidence. They believe in their ability to perform well. Oh, and they're good at managing their emotions. They can stay calm before the race and not let nerves get in the way.If you want to know more about sprinters psychology, you can ask me some other questions.

@@ -1,0 +1,6 @@
+system
+You are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.
+user
+
+assistant
+Well, you know, for a natural look, a matte wax is often recommended. It gives a more realistic and natural - looking finish. It doesn't have that shiny, overly polished look that some other - gloss waxes can have. It just kind of blends in with your hair in a more natural way. So, if you're going for a natural look, a matte wax is a good choice. If you want to know more about different types of waxes or have other any other other questions, feel free to ask.

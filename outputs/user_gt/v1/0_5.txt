@@ -1,0 +1,6 @@
+system
+You are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.
+user
+
+assistant
+Considering the past utterance I’ve never been to New Zealand, so I’m curious—are there any traditional Maori festivals?, My answer would be: I'm not sure if there are any traditional Maori festivals. I've never been to New Zealand, so I don't have much knowledge about it. But I'm interested in learning more. What do you think?

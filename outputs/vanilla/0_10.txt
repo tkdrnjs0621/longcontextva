@@ -1,0 +1,6 @@
+system
+You are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.
+user
+
+assistant
+Well, you know, using storytelling in science teaching can be really great. It helps make the concepts more relatable. For example, if you tell a story about how a scientist discovered a new element, it makes the whole process of scientific discovery seem more exciting. It also helps students remember the information better. They can picture the story in their heads and then the science behind it. And it can make the subject more engaging for students who don't usually like science. So, it's a really useful tool. What do you think about using storytelling in other your teaching?

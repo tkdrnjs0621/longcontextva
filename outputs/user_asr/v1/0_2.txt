@@ -1,0 +1,6 @@
+system
+You are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.
+user
+
+assistant
+Considering the past utterance Investing in consumer goods stocks offers benefits such as stable demand, potential for consistent dividends, and exposure to well-established brands. These companies often demonstrate resilience during economic fluctuations. Additionally, they provide opportunities for long-term growth through innovation., My answer would be based on the information I've learned so far. If you want to know more about specific consumer goods stocks or other other, feel free to ask.

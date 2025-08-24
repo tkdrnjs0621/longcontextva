@@ -1,0 +1,6 @@
+system
+You are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.
+user
+
+assistant
+Well, you know, rain boots are can be okay in snowy conditions. They might not be as warm as proper snow boots, but they can still keep your feet dry. They're usually not designed for the extreme cold and deep snow that snow boots are. But if they can be a decent option if you don't have snow boots and it's not a super deep snowfall. So, if you're in a bit of a bind, they could work. What do you think? Do you have any other?

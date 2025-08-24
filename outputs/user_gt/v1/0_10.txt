@@ -1,0 +1,6 @@
+system
+You are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.
+user
+
+assistant
+Considering the past utterance Many scientific topics can be effectively taught through storytelling. For example, the life cycle of a star can be depicted as a dramatic tale of birth, growth, and eventual transformation. Similarly, the history of scientific discoveries can be shared as inspiring narratives of curiosity and perseverance., My answer would be: Storytelling can make science more engaging and relatable. It helps students connect with the material on a deeper level. So, what do you think about using storytelling in science teaching?
